@@ -375,6 +375,9 @@ nav ul li{
       color: white !important;
       font-size: 15px !important;
   }
+   body{
+       overflow-x: hidden;
+   }
 }
 @media screen and (max-width: 401px) {
     .ps-header h1{
@@ -382,6 +385,9 @@ nav ul li{
         color: white !important;
         font-size: 12px !important;
     }
+	   body{
+       overflow-x: hidden;
+   }
   }
   @media screen and (max-width: 471px) {
     .ps-header h1{
@@ -389,6 +395,9 @@ nav ul li{
         color: white !important;
         font-size: 12px !important;
     }
+	     body{
+       overflow-x: hidden;
+   }
   }
   @media screen and (max-width: 320px) {
     .ps-header h1{
@@ -396,4 +405,7 @@ nav ul li{
         color: white !important;
         font-size: 5px !important;
     }
+	     body{
+       overflow-x: hidden;
+   }
   }
