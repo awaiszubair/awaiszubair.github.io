@@ -390,3 +390,10 @@ nav ul li{
         font-size: 12px !important;
     }
   }
+  @media screen and (max-width: 320px) {
+    .ps-header h1{
+        padding: 0px 0px !important;
+        color: white !important;
+        font-size: 8px !important;
+    }
+  }
