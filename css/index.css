@@ -358,7 +358,7 @@ nav ul li{
      text-align: center;
      background-color: black;
      text-transform: uppercase;
-     margin-left: 300px !important;
+/*      margin-left: 300px !important; */
      cursor: pointer;
      transition: .2s;
  }
