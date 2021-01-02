@@ -386,7 +386,7 @@ nav ul li{
         font-size: 12px !important;
     }
 	   body{
-       overflow-x: hidden;
+       overflow-x: hidden !important;
    }
   }
   @media screen and (max-width: 471px) {
@@ -396,7 +396,7 @@ nav ul li{
         font-size: 12px !important;
     }
 	     body{
-       overflow-x: hidden;
+       overflow-x: hidden !important;
    }
   }
   @media screen and (max-width: 320px) {
