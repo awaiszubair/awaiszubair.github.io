@@ -406,6 +406,6 @@ nav ul li{
         font-size: 5px !important;
     }
 	     body{
-       overflow-x: hidden;
+       overflow-x: hidden !important;
    }
   }
