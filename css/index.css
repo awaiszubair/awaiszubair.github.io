@@ -409,3 +409,25 @@ nav ul li{
        overflow-x: hidden !important;
    }
   }
+ .my-img{
+      overflow: hidden;
+      transition: 0.5s;
+  }
+.my-img:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+    transition: 1s;
+}
+.my-new-hover:hover{
+    box-shadow: 5px 10px 18px #888888;
+    transition: .5s;
+}
+.my-href a{
+    transition: .1s !important;
+}
+.my-href a:hover{
+    background-color:#ccc !important; 
+    transition: .5s;
+}
+
